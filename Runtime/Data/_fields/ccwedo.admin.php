@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'adminuid', 1 => 'adminuname', 2 => 'adminpassword', 3 => 'adminemail', 4 => 'adminphone', '_autoinc' => true, '_pk' => 'adminuid', '_type' => array ( 'adminuid' => 'int(11)', 'adminuname' => 'char(50)', 'adminpassword' => 'varchar(50)', 'adminemail' => 'varchar(50)', 'adminphone' => 'varchar(50)', ), );?>

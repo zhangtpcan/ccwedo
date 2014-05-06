@@ -1,0 +1,1 @@
+<?php	return array ( 0 => 'gid', 1 => 'compid', 2 => 'gname', 3 => 'gpermission', '_autoinc' => true, '_pk' => 'gid', '_type' => array ( 'gid' => 'int(11)', 'compid' => 'int(11)', 'gname' => 'varchar(50)', 'gpermission' => 'varchar(255)', ), );?>
